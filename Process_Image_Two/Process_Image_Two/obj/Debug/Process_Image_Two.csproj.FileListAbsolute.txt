@@ -1,0 +1,30 @@
+c:\users\hudsonn\documents\visual studio 2015\Projects\Process_Image_Two\Process_Image_Two\bin\Debug\Process_Image_Two.exe.config
+C:\Users\Hudsonn\documents\visual studio 2015\Projects\Process_Image_Two\Process_Image_Two\bin\Debug\Process_Image_Two.exe
+C:\Users\Hudsonn\documents\visual studio 2015\Projects\Process_Image_Two\Process_Image_Two\bin\Debug\Process_Image_Two.pdb
+C:\Users\Hudsonn\documents\visual studio 2015\Projects\Process_Image_Two\Process_Image_Two\obj\Debug\Process_Image_Two.csprojResolveAssemblyReference.cache
+C:\Users\Hudsonn\documents\visual studio 2015\Projects\Process_Image_Two\Process_Image_Two\obj\Debug\Process_Image_Two.Properties.Resources.resources
+C:\Users\Hudsonn\documents\visual studio 2015\Projects\Process_Image_Two\Process_Image_Two\obj\Debug\Process_Image_Two.csproj.GenerateResource.Cache
+C:\Users\Hudsonn\documents\visual studio 2015\Projects\Process_Image_Two\Process_Image_Two\obj\Debug\Process_Image_Two.exe
+C:\Users\Hudsonn\documents\visual studio 2015\Projects\Process_Image_Two\Process_Image_Two\obj\Debug\Process_Image_Two.pdb
+C:\Users\Hudsonn\documents\visual studio 2015\Projects\Process_Image_Two\Process_Image_Two\obj\Debug\Process_Image_Two.Menu.resources
+C:\Users\Hudsonn\documents\visual studio 2015\Projects\Process_Image_Two\Process_Image_Two\obj\Debug\Process_Image_Two.Passa_alta.resources
+C:\Users\Hudsonn\documents\visual studio 2015\Projects\Process_Image_Two\Process_Image_Two\bin\Debug\Filtragem.resx
+C:\Users\Hudsonn\documents\visual studio 2015\Projects\Process_Image_Two\Process_Image_Two\bin\Debug\Filtragem.cs
+C:\Users\Hudsonn\documents\visual studio 2015\Projects\Process_Image_Two\Process_Image_Two\bin\Debug\Filtragem.Designer.cs
+C:\Users\Hudsonn\documents\visual studio 2015\Projects\Process_Image_Two\Process_Image_Two\obj\Debug\Process_Image_Two.Histograma.resources
+C:\Users\Hudsonn\documents\visual studio 2015\Projects\Process_Image_Two\Process_Image_Two\obj\Debug\Process_Image_Two.Salvar.resources
+C:\Users\Hudsonn\Desktop\Git\php\Process_Image_Two\Process_Image_Two\bin\Debug\Process_Image_Two.exe.config
+C:\Users\Hudsonn\Desktop\Git\php\Process_Image_Two\Process_Image_Two\obj\Debug\Process_Image_Two.exe
+C:\Users\Hudsonn\Desktop\Git\php\Process_Image_Two\Process_Image_Two\obj\Debug\Process_Image_Two.pdb
+C:\Users\Hudsonn\Desktop\Git\php\Process_Image_Two\Process_Image_Two\bin\Debug\Filtragem.resx
+C:\Users\Hudsonn\Desktop\Git\php\Process_Image_Two\Process_Image_Two\bin\Debug\Filtragem.cs
+C:\Users\Hudsonn\Desktop\Git\php\Process_Image_Two\Process_Image_Two\bin\Debug\Filtragem.Designer.cs
+C:\Users\Hudsonn\Desktop\Git\php\Process_Image_Two\Process_Image_Two\bin\Debug\Process_Image_Two.exe
+C:\Users\Hudsonn\Desktop\Git\php\Process_Image_Two\Process_Image_Two\bin\Debug\Process_Image_Two.pdb
+C:\Users\Hudsonn\Desktop\Git\php\Process_Image_Two\Process_Image_Two\obj\Debug\Process_Image_Two.csprojResolveAssemblyReference.cache
+C:\Users\Hudsonn\Desktop\Git\php\Process_Image_Two\Process_Image_Two\obj\Debug\Process_Image_Two.Passa_alta.resources
+C:\Users\Hudsonn\Desktop\Git\php\Process_Image_Two\Process_Image_Two\obj\Debug\Process_Image_Two.Histograma.resources
+C:\Users\Hudsonn\Desktop\Git\php\Process_Image_Two\Process_Image_Two\obj\Debug\Process_Image_Two.Menu.resources
+C:\Users\Hudsonn\Desktop\Git\php\Process_Image_Two\Process_Image_Two\obj\Debug\Process_Image_Two.Properties.Resources.resources
+C:\Users\Hudsonn\Desktop\Git\php\Process_Image_Two\Process_Image_Two\obj\Debug\Process_Image_Two.Salvar.resources
+C:\Users\Hudsonn\Desktop\Git\php\Process_Image_Two\Process_Image_Two\obj\Debug\Process_Image_Two.csproj.GenerateResource.Cache
